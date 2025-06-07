@@ -1,0 +1,9 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="60" height="60" rx="12" fill="#1F2937"/>
+  <!-- Extract just the "L" and symbol parts from the official logo -->
+  <g transform="scale(2.5) translate(5, 15)">
+    <path d="M60 3.75V19.0084H70.4508V16.7046H62.3725V3.75H60Z" fill="#F59E0B"/>
+    <!-- Add the circular symbol part -->
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M12 6C12 9.31 9.31 12 6 12C2.69 12 0 9.31 0 6C0 2.69 2.69 0 6 0C9.31 0 12 2.69 12 6Z" fill="#10B981"/>
+  </g>
+</svg>
